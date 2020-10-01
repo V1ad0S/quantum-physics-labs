@@ -1,0 +1,34 @@
+#jupyter notebook checkpoints
+.ipynb_checkpoints
+
+#vscode
+.vscode
+
+
+# TeX files
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.bib
+*.blg
+*.dvi
+*.fls
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.fdb_latexmk
+*.synctex.gz
